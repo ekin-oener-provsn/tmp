@@ -16,3 +16,4 @@
 
 [debops_all_hosts]
 #localhost ansible_host=localhost ansible_connection=local
+test
