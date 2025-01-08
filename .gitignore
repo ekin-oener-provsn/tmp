@@ -37,3 +37,8 @@ tramp
 
 #-- sftp configuration file
 sftp-config.json
+
+#-- custom
+.venv
+.vscode
+molecule/*/secret/
